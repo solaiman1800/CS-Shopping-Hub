@@ -1,0 +1,6 @@
+{
+  "name": "CS Shopping Hub - SmartShop BD",
+  "description": "Premier Bangladeshi online shopping platform for smartphones, gadgets, electronics, and lifestyle products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
